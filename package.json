@@ -1,0 +1,9 @@
+{
+	"name": "net.tnrd.messagepack",
+	"displayName": "MessagePack",
+	"version": "2.5.124",
+	"author": {
+		"name":"TNRD",
+		"url": "https://www.tnrd.net"
+	}
+}
