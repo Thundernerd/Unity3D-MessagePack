@@ -10,7 +10,7 @@ openupm add net.tnrd.messagepack
 
 3. Installing from git through the package manager by clicking the + icon and then selecting 'Add package from git URL...'
 
-
+![image](https://github.com/Thundernerd/Unity3D-MessagePack/assets/5531467/c50fff56-303d-4275-bc0f-91cae9101b78)
 
 and using the following url: `https://github.com/Thundernerd/Unity3D-messagepack.git`
 
